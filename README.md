@@ -4,7 +4,7 @@ Aside from this README.md, in this repository you'll find the [prompt templates]
 
 Additionally, a video demonstrating the virtual assistant's interface inside the software, showing the chat window and action suggestion feature, can be seen below:
 
-<video controls src="assistant_video.mp4" title="Title"></video>
+https://github.com/user-attachments/assets/a0438343-a2d6-469a-95aa-cca8c9d3131d
 
 ## Experimental Setup
 
